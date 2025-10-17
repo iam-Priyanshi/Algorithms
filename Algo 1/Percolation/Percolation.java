@@ -1,7 +1,7 @@
  /* *****************************************************************************
-  *  Name:              Alan Turing
+  *  Name:              Priyanshi Shukla
   *  Coursera User ID:  123456
-  *  Last modified:     1/1/2019
+  *  Last modified:     25/09/2025
   **************************************************************************** */
 
  import edu.princeton.cs.algs4.WeightedQuickUnionUF;
